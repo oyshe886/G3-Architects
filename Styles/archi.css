@@ -194,7 +194,7 @@
         .team-img,.fact-container ,.sponsor-cmp{
             grid-template-columns: repeat(1,1fr);
         }
-        .fact-container{
+        .fact-container {
             justify-items: center;
             gap: 24px;
         }
@@ -209,6 +209,11 @@
         #experience-badge{
             margin-top: 20px;
             margin-left: 20px;
+        }
+        .footer{
+            justify-content: center;
+            padding: 20px;
+            margin: 20px;
         }
     }
     /* Medium Device */
